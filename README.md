@@ -1,6 +1,8 @@
 # HCSL
 支持LoongArch架构，GNU/Linux，MAC，Windows的《都市：天际线2》开源第三方启动器。
 
+本启动器计划基于2023年8月23日发布的Mono 6.13-ea4 LoongArch64及更高版本，同时与Unity进行适配。
+
 # 研制背景
 2023年10月25日，《都市：天际线2》发布，2023年11月28日，龙芯3A6000在北京发布，主频2.5GHZ，单核及多核浮点性能接近Intel i3 10100；华硕发布携带龙芯3A6000的主板XC-LS3A6M。
 
@@ -52,6 +54,8 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 
 # HCSL(English)
 "Hello Cities:Skylines 2 Launcher" that support LoongArch, Linux, mac, windows.
+
+This launcher is planned to be based on Mono 6.13-ea4 LoongArch64 and higher released on August 23, 2023, and will be compatible with Unity.
 
 # Development background
 
@@ -111,6 +115,8 @@ Although the LoongArch architecture is also used for the Loongson 3A5000, its pe
 
 # HCSL(日本語)
 竜アーキ(LoongArch)、GNU/Linux、MAC、Windowsの「都市：天際線2」(シティーズ:スカイライン2)オープンソース第三者ランチャーをサポートする。
+
+本ランチャーは、2023年8月23日にリリースされるMono 6.13-ea4 LoongArch64およびそれ以上のバージョンに基づいて、Unityとの適合を同時に行う予定です。
 
 # 開発背景
 
