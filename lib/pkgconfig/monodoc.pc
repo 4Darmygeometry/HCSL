@@ -1,0 +1,9 @@
+prefix=/home/liuan/ist_mono
+exec_prefix=${prefix}
+libdir=/home/liuan/ist_mono/lib
+sourcesdir=${libdir}/monodoc/sources
+
+Name: Monodoc
+Description: Monodoc - Mono Documentation Tools
+Version: 6.13.0
+Libs: /r:${prefix}/lib/mono/monodoc/monodoc.dll 
