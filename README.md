@@ -18,6 +18,8 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 
 操作系统:loongnix，UOS V20桌面专业版LoongArch64
 
+龙架构(LoongArch):LA664
+
 处理器:龙芯(loongson)3A6000
 
 内存:8GB RAM
@@ -33,6 +35,8 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 系统要求:需要 64 位处理器和操作系统
 
 操作系统:UOS V20桌面专业版LoongArch64 1060
+
+龙架构(LoongArch):LA664及以上架构
 
 处理器:龙芯(loongson)3A6000及更高版本处理器
 
@@ -75,6 +79,8 @@ System requirements: 64 bit processor and operating system required
 
 Operating System: Loongnix, UOS V20 Desktop Professional Edition LoongArch64
 
+LoongArch: LA664
+
 Processor: Loongson 3A6000
 
 Memory: 8GB RAM
@@ -92,6 +98,8 @@ Network: Broadband Internet Connection
 System requirements: 64 bit processor and operating system required
 
 Operating System: UOS V20 Desktop Professional Edition Loongarch64 1060
+
+LoongArch: LA664 and higher architecture
 
 Processor: Loongson 3A6000 and higher processors
 
@@ -136,6 +144,8 @@ HMCLスタータは2022年に龍芯原生LoongArchアーキテクチャの適合
 
 オペレーティングシステム：loongnix、UOS V20専業エディションLoongArch64
 
+LoongArch：LA664
+
 CPU：龍芯（loongson）3A6000
 
 メモリ：8GB RAM
@@ -153,6 +163,8 @@ CPU：龍芯（loongson）3A6000
 システム要件：64ビットCPUとオペレーティングシステムが必要
 
 オペレーティングシステム：UOS V20UOS V20専業エディションLoongArch64 1060
+
+LoongArch：LA664以降
 
 CPU：龍芯（loongson）3A6000以降
 
