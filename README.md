@@ -26,7 +26,7 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 
 主板:-
 
-显卡:龙芯(loongson)7A2000桥片(2GB)
+显卡:AMD RX 580(8GB)
 
 声卡:适配LoongArch架构的任意声卡
 
@@ -87,7 +87,7 @@ Memory: 8GB RAM
 
 Motherboard:-
 
-Graphics card: Loongson 7A2000 GPU (2GB)
+Graphics card: AMD RX 580(8GB)
 
 Sound Card: Any sound card that is compatible with the LoongArch architecture
 
@@ -152,7 +152,7 @@ CPU：龍芯（loongson）3A6000
 
 マザーボード:-
 
-グラフィックスカード：龍芯（loongson）7A2000 GPU（2GB）
+グラフィックスカード：AMD RX 580(8GB)
 
 サウンドカード：LoongArchに適した任意のサウンドカード
 
