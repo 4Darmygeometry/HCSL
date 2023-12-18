@@ -1,7 +1,8 @@
+# HCSL项目已成为CSUL项目的一部分，更多信息请关注https://github.com/Sci-fiBrain/CSUL ，谢谢。
 # HCSL
-支持LoongArch架构，GNU/Linux，MAC，Windows的《都市：天际线2》开源第三方启动器。
+《都市：天际线2》开源第三方启动器CSUL在LoongArch架构，GNU/Linux，MAC的移植版本。
 
-本启动器计划基于2023年8月23日发布的Mono 6.13-ea4 LoongArch64及更高版本，同时与Unity进行适配。
+本启动器计划基于2023年8月23日发布的Mono 6.13-ea4 LoongArch64及更高版本、CSUL，同时与Unity进行适配。
 
 # 研制背景
 2023年10月25日，《都市：天际线2》发布，2023年11月28日，龙芯3A6000在北京发布，主频2.5GHZ，单核及多核浮点性能接近Intel i3 10100；华硕发布携带龙芯3A6000的主板XC-LS3A6M。
@@ -57,9 +58,9 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 虽龙芯3A5000亦为LoongArch架构，然龙芯3A5000性能较弱，不建议使用此启动器运行《都市：天际线2》。
 
 # HCSL(English)
-"Hello Cities:Skylines 2 Launcher" that support LoongArch, Linux, mac, windows.
+A ported version of the open-source third-party launcher CSUL for "Cities:Skylines 2" that support LoongArch, GNU/Linux, and MAC.
 
-This launcher is planned to be based on Mono 6.13-ea4 LoongArch64 and higher released on August 23, 2023, and will be compatible with Unity.
+This launcher is based on Mono 6.13-ea4 LoongArch64 released on August 23, 2023 and higher versions, CSUL, and will be compatible with Unity.
 
 # Development background
 
@@ -122,9 +123,9 @@ This launcher is not intended to create a conflict with Paradox Launcher and Ste
 Although the LoongArch architecture is also used for the Loongson 3A5000, its performance is weak and it is not recommended to use this launcher to run "Cities:Skylines 2".
 
 # HCSL(日本語)
-竜アーキ(LoongArch)、GNU/Linux、MAC、Windowsの「都市：天際線2」(シティーズ:スカイライン2)オープンソース第三者ランチャーをサポートする。
+「都市：天際線2」(シティーズ:スカイライン2)オープンソース第三者イニシエータCSULの竜アーキ(LoongArch)、GNU/Linux、MACへの移植バージョン。
 
-本ランチャーは、2023年8月23日にリリースされるMono 6.13-ea4 LoongArch64およびそれ以上のバージョンに基づいて、Unityとの適合を同時に行う予定です。
+本ランチャーは、2023年8月23日にリリースされたMono 6.13-ea 4 LoongArch 64およびそれ以上のバージョン、CSULに基づいて、同時にUnityと適合する予定です。
 
 # 開発背景
 
@@ -180,8 +181,8 @@ CPU：龍芯（loongson）3A6000以降
 
 # Paradox Launcher，Steamプラットフォームとの関係
 
-本イニシエータはParadox LauncherおよびSteamプラットフォームの製造と対立しているわけではなく、「都市：天際線2」開発者のColossal Orderと発行元のParadox Interactive公式クロスプラットフォームを破壊する意図もなく、「都市：天際線2」C#バイトコードを直接起動するか、龍芯3A6000およびそれ以上のバージョンの龍芯CPUで「都市：天際線2」Linux版を起動する方法を提供している。
+本ランチャーはParadox LauncherおよびSteamプラットフォームの製造と対立しているわけではなく、「都市：天際線2」開発者のColossal Orderと発行元のParadox Interactive公式クロスプラットフォームを破壊する意図もなく、「都市：天際線2」C#バイトコードを直接起動するか、龍芯3A6000およびそれ以上のバージョンの龍芯CPUで「都市：天際線2」Linux版を起動する方法を提供している。
 
-# 本イニシエータは龍芯3A5000で「都市：天際線2」を起動するのに適しているか
+# 本ランチャーは龍芯3A5000で「都市：天際線2」を起動するのに適しているか
 
-龍芯3A5000もLoongArchアーキテクチャであるが、龍芯3A5000は性能が弱く、このイニシエータを使用して「都市：天際線2」を実行することは推奨されていない。
+龍芯3A5000もLoongArchアーキテクチャであるが、龍芯3A5000は性能が弱く、このランチャーを使用して「都市：天際線2」を実行することは推奨されていない。
