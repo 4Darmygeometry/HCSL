@@ -12,7 +12,7 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 《都市：天际线2》基于Unity开发，使用C#语言编写并在Mono虚拟机中运行，具有移植至龙芯平台的可能性。基于以上背景，决定启动适配龙芯LoongArch架构的《都市：天际线2》开源第三方启动器项目。
 
 # 项目目标
-让《都市：天际线2》C#字节码能原生运行于龙芯3A6000及以上平台，并满足以下最低配置及推荐配置：
+让《都市：天际线2》C#字节码能原生运行于龙芯3B6000及以上平台，并满足以下最低配置及推荐配置：
 
 ## 最低配置
 系统要求:需要 64 位处理器和操作系统
@@ -21,7 +21,7 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 
 龙架构(LoongArch):LA664
 
-处理器:龙芯(loongson)3A6000
+处理器:龙芯(loongson)3B6000
 
 内存:8GB RAM
 
@@ -39,7 +39,7 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 
 龙架构(LoongArch):LA664及以上架构
 
-处理器:龙芯(loongson)3A6000及更高版本处理器
+处理器:龙芯(loongson)3B6000及更高版本处理器
 
 内存:16GB RAM
 
@@ -52,7 +52,7 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 网络:宽带互联网连接
 
 # 与Paradox Launcher，Steam平台关系
-本启动器并非与Paradox Launcher及Steam平台制造对立，亦未有破坏《都市：天际线2》开发商Colossal Order与发行商Paradox Interactive官方跨平台之意图，而是提供直接启动《都市：天际线2》C#字节码或在龙芯3A6000及更高版本龙芯CPU启动《都市：天际线2》Linux版的途径。
+本启动器并非与Paradox Launcher及Steam平台制造对立，亦未有破坏《都市：天际线2》开发商Colossal Order与发行商Paradox Interactive官方跨平台之意图，而是提供直接启动《都市：天际线2》C#字节码或在龙芯3B6000及更高版本龙芯CPU启动《都市：天际线2》Linux版的途径。
 
 # 本启动器是否适合在龙芯3A5000启动《都市：天际线2》
 虽龙芯3A5000亦为LoongArch架构，然龙芯3A5000性能较弱，不建议使用此启动器运行《都市：天际线2》。
@@ -72,7 +72,7 @@ The HMCL launcher completed the native LoongArch architecture adaptation of Loon
 
 # Project purpose
 
-Enable the C# bytecode of "Cities:Skylines 2" to run natively on Loongson 3A6000 and above platforms, and meet the following minimum and recommended configurations:
+Enable the C# bytecode of "Cities:Skylines 2" to run natively on Loongson 3B6000 and above platforms, and meet the following minimum and recommended configurations:
 
 ## Minimum configuration
 
@@ -82,7 +82,7 @@ Operating System: Loongnix, UOS V20 Desktop Professional Edition LoongArch64
 
 LoongArch: LA664
 
-Processor: Loongson 3A6000
+Processor: Loongson 3B6000
 
 Memory: 8GB RAM
 
@@ -102,7 +102,7 @@ Operating System: UOS V20 Desktop Professional Edition Loongarch64 1060
 
 LoongArch: LA664 and higher architecture
 
-Processor: Loongson 3A6000 and higher processors
+Processor: Loongson 3B6000 and higher processors
 
 Memory: 16GB RAM
 
@@ -116,7 +116,7 @@ Network: Broadband Internet Connection
 
 # Relationship with Paradox Launcher and Steam Platform
 
-This launcher is not intended to create a conflict with Paradox Launcher and Steam platforms, nor is it intended to disrupt the official cross platform intentions of Colossal Order, the developer of "Cities:Skylines 2", and Paradox Interactive, the publisher. Instead, it provides a way to directly launch the C# bytecode of "Cities:Skylines 2" or to launch the Linux version of "Cities:Skylines 2" on Loongson 3A6000 and higher Loongson CPUs.
+This launcher is not intended to create a conflict with Paradox Launcher and Steam platforms, nor is it intended to disrupt the official cross platform intentions of Colossal Order, the developer of "Cities:Skylines 2", and Paradox Interactive, the publisher. Instead, it provides a way to directly launch the C# bytecode of "Cities:Skylines 2" or to launch the Linux version of "Cities:Skylines 2" on Loongson 3B6000 and higher Loongson CPUs.
 
 # Is this starter suitable for starting "Cities:Skylines 2" on Loongson 3A5000
 
@@ -137,7 +137,7 @@ HMCLスタータは2022年に龍芯原生LoongArchアーキテクチャの適合
 
 # プロジェクト目標
 
-「都市：天際線2」C#バイトコードを龍芯3A6000以上のプラットフォームで原生的に動作させ、以下の最低配置と推奨配置を満たす：
+「都市：天際線2」C#バイトコードを龍芯3B6000以上のプラットフォームで原生的に動作させ、以下の最低配置と推奨配置を満たす：
 
 ## 最低配置
 
@@ -147,7 +147,7 @@ HMCLスタータは2022年に龍芯原生LoongArchアーキテクチャの適合
 
 LoongArch：LA664
 
-CPU：龍芯（loongson）3A6000
+CPU：龍芯（loongson）3B6000
 
 メモリ：8GB RAM
 
@@ -167,7 +167,7 @@ CPU：龍芯（loongson）3A6000
 
 LoongArch：LA664以降
 
-CPU：龍芯（loongson）3A6000以降
+CPU：龍芯（loongson）3B6000以降
 
 メモリ：16GB RAM
 
@@ -181,7 +181,7 @@ CPU：龍芯（loongson）3A6000以降
 
 # Paradox Launcher，Steamプラットフォームとの関係
 
-本ランチャーはParadox LauncherおよびSteamプラットフォームの製造と対立しているわけではなく、「都市：天際線2」開発者のColossal Orderと発行元のParadox Interactive公式クロスプラットフォームを破壊する意図もなく、「都市：天際線2」C#バイトコードを直接起動するか、龍芯3A6000およびそれ以上のバージョンの龍芯CPUで「都市：天際線2」Linux版を起動する方法を提供している。
+本ランチャーはParadox LauncherおよびSteamプラットフォームの製造と対立しているわけではなく、「都市：天際線2」開発者のColossal Orderと発行元のParadox Interactive公式クロスプラットフォームを破壊する意図もなく、「都市：天際線2」C#バイトコードを直接起動するか、龍芯3B6000およびそれ以上のバージョンの龍芯CPUで「都市：天際線2」Linux版を起動する方法を提供している。
 
 # 本ランチャーは龍芯3A5000で「都市：天際線2」を起動するのに適しているか
 
