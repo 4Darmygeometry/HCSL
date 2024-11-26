@@ -17,11 +17,11 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 ## 最低配置
 系统要求:需要 64 位处理器和操作系统
 
-操作系统:loongnix，UOS V20桌面专业版LoongArch64
+操作系统:AOSC OS 11.6.1/Loongnix 25
 
 龙架构(LoongArch):LA664
 
-处理器:龙芯(loongson)3B6000
+处理器:龙芯(loongson)3A6000
 
 内存:8GB RAM
 
@@ -35,17 +35,17 @@ HMCL启动器于2022年完成龙芯原生LoongArch架构适配，使得龙芯能
 ## 推荐配置
 系统要求:需要 64 位处理器和操作系统
 
-操作系统:UOS V20桌面专业版LoongArch64 1060
+操作系统:AOSC OS 11.6.1/Loongnix 25
 
 龙架构(LoongArch):LA664及以上架构
 
-处理器:龙芯(loongson)3B6000及更高版本处理器
+处理器:龙芯(loongson)3C6000及更高版本处理器
 
 内存:16GB RAM
 
 主板:华硕(ASUS) XC-LS3A6M
 
-显卡:摩尔线程MTT S80(16GB)
+显卡:AMD RX 6600
 
 声卡:适配LoongArch架构的任意声卡
 
